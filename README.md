@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! It's a-me, ✨Mario!✨
 
 <!--
 **Eyepan/Eyepan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Iyappan G S studying in Chennai Institute of Technology! I am a software developer from **💙India💙** and I mainly code with C++/Python. I am currently learning Flutter and Application Dev, so yeah!
+I am Iyappan G S studying in Chennai Institute of Technology!
 
+I’m currently learning Dart/Flutter and Mobile App Development  
+I'm a software developer from **India**  
+I mainly code with C++/Python  
 
 _Connect with me here:_
 
