@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 I am Iyappan G S studying in Chennai Institute of Technology!
 
-I’m currently learning Dart/Flutter and Mobile App Development  
+I’m currently learning Vue.JS and Angular in Full Stack Development
 I'm a software developer from **India**  
 I mainly code with C++/Python  
 
